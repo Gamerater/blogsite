@@ -28,22 +28,22 @@ header {
 h1 {
   font-family: 'gg sans', cursive;
   font-size: 3rem;
-  text-shadow: 2px 2px 5px #ffd277;
+  text-shadow: 2px 2px 5px #e9dff7;
   margin: 0.5rem 0;
   font-weight: bold;
   padding: 0.5rem 1rem;
   border-radius: 15px;
-  outline: 3px solid #ffd277;
+  outline: 3px solid #e9dff7;
   background-color: black;
   display: inline-block;
 }
 
 .blog {
-  color: #ffd277;
+  color: #e9dff7;
 }
 
 .site {
-  color: #ffd277;
+  color: #e9dff7;
 }
 
 nav ul {
